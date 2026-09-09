@@ -182,13 +182,13 @@ A platform designed to support **employee recognition, rewards, and organization
 
 **Contributions**
 
-* ⚛️ React frontend development
-* 🧩 Administration workflows
-* 🎨 UI consistency
-* 🚀 Feature development
-* 🤝 Cross-functional collaboration
+* 🅰️ Developed frontend features using **Angular**
+* 🧩 Worked on reward management and administration workflows
+* 🎨 Improved UI consistency and usability
+* 🚀 Delivered feature enhancements and product improvements
+* 🤝 Collaborated with cross-functional teams to translate requirements into functional experiences
 
-`React` `JavaScript` `UI/UX`
+`Angular` `TypeScript` `UI/UX` `Enterprise Application`
 
 ---
 
